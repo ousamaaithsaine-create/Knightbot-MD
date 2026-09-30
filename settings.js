@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "FUBUKI BOT",
   botOwner: 'Professor', // Your name
-  ownerNumber: '212625235595', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '212649533210', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "private",
   maxStoreMessages: 20, 
